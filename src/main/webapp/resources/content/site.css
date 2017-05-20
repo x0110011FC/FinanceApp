@@ -1,0 +1,13 @@
+﻿body {
+    background-color: #fff;
+    color: #333;
+    font-family: Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif;
+}
+.center {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}
+td {
+    text-align: center;
+}
